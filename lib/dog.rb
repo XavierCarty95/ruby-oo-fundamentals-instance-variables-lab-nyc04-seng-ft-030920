@@ -8,6 +8,7 @@ class Dog
   end
 end
 
+
 lassie.name = "Lassie"
  
 puts lassie.name
